@@ -2,7 +2,6 @@
 ---
 
 
-
 ### `> whoami`
 
 ```python
