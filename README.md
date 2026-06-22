@@ -1,103 +1,33 @@
-<!-- Header Banner -->
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Edho!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn" width="100%"/>
 
+### 🚀 About Me
+Welcome to my GitHub! I am a tech enthusiast focusing on **DevOps** and exploring the boundaries of **AI Engineering**. I enjoy building robust applications, orchestrating complex server virtualizations, and engineering high-performance networks.
 
-### `> whoami`
+### 💻 Tech Stack & Tools
 
-```python
-edho = {
-    "name"     : "Edho Walla",
-    "alias"    : "edholabs",
-    "focus"    : ["Data Science", "AI/ML", "Automation", "Network Engineering"],
-    "currently": "Building intelligent systems & robust networks",
-    "motto"    : "Turn raw data into real decisions — on a network that never sleeps.",
-}
-```
+**👨‍💻 Development**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br clear="right"/>
+**⚙️ DevOps & Infrastructure**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+**📡 Networking**  
+![MikroTik](https://img.shields.io/badge/MikroTik-292929?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
-### `> tech_stack --list`
-
-**Languages & Query**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff)
-![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=58a6ff)
-
-**Data & AI / ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=58a6ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=58a6ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=58a6ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=58a6ff)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58a6ff)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58a6ff)
-
-**Network Engineering**
-
-![Mikrotik](https://img.shields.io/badge/MikroTik-0d1117?style=for-the-badge&logo=mikrotik&logoColor=ef3b35)
-![Cisco](https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=1ba0d7)
-![RouterOS](https://img.shields.io/badge/RouterOS-0d1117?style=for-the-badge&logo=mikrotik&logoColor=ef3b35)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-
-> `Routing • Switching • Firewall • VLAN • VPN • BGP • OSPF`
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=edholabs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="edholabs stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edholabs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="top languages"/>
+</p>
 
 ---
-
-### `> network --expertise`
-
-```bash
-$ ping expertise --count 6
-
-[✔] MikroTik RouterOS   — Routing, Firewall, Hotspot, QoS, Winbox
-[✔] Cisco IOS           — Switch, Router, ACL, STP, HSRP
-[✔] Network Design      — VLAN, Subnetting, Topology
-[✔] VPN & Tunneling     — L2TP, PPTP, OpenVPN, IPSec
-[✔] Monitoring          — SNMP, The Dude, Grafana
-[✔] Automation          — Python Netmiko, Paramiko, Ansible
-
-Reply from expertise: bytes=6 time=<1ms TTL=64
-```
-
----
-
-### `> github --stats`
-
-<div align="center">
-
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=edholabs&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-
-</div>
-
----
-
-### `> connect --social`
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/@edholabz-0d1117?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=0d1117)](https://instagram.com/edholabz)
-[![GitHub](https://img.shields.io/badge/edholabs-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://github.com/edholabs)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer"/>
-
-```
-[ edholabs@github ~ ] $ █
-```
-
-*"Data is the new oil — and I know how to refine it."*
-
-</div>
+⚡ *“Automating the present to build an intelligent future.”*
